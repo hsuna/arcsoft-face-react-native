@@ -1,0 +1,2 @@
+android/libs/**/libarcsoft_face.so filter=lfs diff=lfs merge=lfs -text
+android/libs/**/*.so filter=lfs diff=lfs merge=lfs -text

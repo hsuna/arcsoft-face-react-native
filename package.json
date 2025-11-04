@@ -1,0 +1,25 @@
+{
+  "name": "arcsoft-face-react-native",
+  "version": "1.0.0",
+  "description": "ArcSoft Face Recognition SDK for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "arcsoft",
+    "face-recognition",
+    "face-detection"
+  ],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "react": "^18.0.0",
+    "react-native": "^0.70.0"
+  }
+}
